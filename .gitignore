@@ -1,3 +1,8 @@
+settings.py
+asgi.py
+urls.py
+wsgi.py 
+
 # Logs
 logs
 *.log
